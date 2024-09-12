@@ -1,8 +1,8 @@
 package fabioran.u5d9.controllers;
 
-import fabioran.u5d8project.entities.BlogPosts;
-import fabioran.u5d8project.payloads.NewBlogPostPayload;
-import fabioran.u5d8project.services.BlogPostsService;
+import fabioran.u5d9.entities.BlogPosts;
+import fabioran.u5d9.payloads.NewBlogPostPayload;
+import fabioran.u5d9.services.BlogPostsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

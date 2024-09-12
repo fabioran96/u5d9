@@ -1,7 +1,7 @@
 package fabioran.u5d9.controllers;
 
-import fabioran.u5d8project.entities.Authors;
-import fabioran.u5d8project.services.AuthorsService;
+import fabioran.u5d9.entities.Authors;
+import fabioran.u5d9.services.AuthorsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;

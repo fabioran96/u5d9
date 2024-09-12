@@ -1,10 +1,10 @@
 package fabioran.u5d9.services;
 
-import fabioran.u5d8project.entities.Authors;
-import fabioran.u5d8project.entities.BlogPosts;
-import fabioran.u5d8project.exceptions.NotFoundException;
-import fabioran.u5d8project.payloads.NewBlogPostPayload;
-import fabioran.u5d8project.repositories.BlogPostsRepository;
+import fabioran.u5d9.entities.Authors;
+import fabioran.u5d9.entities.BlogPosts;
+import fabioran.u5d9.exceptions.NotFoundException;
+import fabioran.u5d9.payloads.NewBlogPostPayload;
+import fabioran.u5d9.repositories.BlogPostsRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

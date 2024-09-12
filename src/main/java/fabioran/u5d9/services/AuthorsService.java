@@ -1,9 +1,9 @@
 package fabioran.u5d9.services;
 
-import fabioran.u5d8project.entities.Authors;
-import fabioran.u5d8project.exceptions.BadRequestException;
-import fabioran.u5d8project.exceptions.NotFoundException;
-import fabioran.u5d8project.repositories.AuthorsRepository;
+import fabioran.u5d9.entities.Authors;
+import fabioran.u5d9.exceptions.BadRequestException;
+import fabioran.u5d9.exceptions.NotFoundException;
+import fabioran.u5d9.repositories.AuthorsRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
